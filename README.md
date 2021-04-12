@@ -19,3 +19,5 @@ Features:
 - It can print out the precise diameter of the specimen as calculated by the code.
 - It can also show the images having the bounding rectangles as chosen, i.e., outlining the specimen and the bench.
 - It will also print out the directory path it is currently working in
+
+Did not used Kaggle: I did not used Kaggle, as it was having trouble in showing the images using OpenCV, so I did my coding part in the software "Anaconda3:Spyder".
